@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.card-styling {
+  color: white;
+
+  padding: 20px;
+}
+.image-styling {
+  width: 200px;
+  height: 100px;
+  border: none;
+  border-radius: 5px;
+}
+.button-styles {
+  border: none;
+  background-color: transparent;
+}

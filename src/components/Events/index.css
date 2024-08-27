@@ -1,0 +1,21 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.background-styling {
+  background-color: #3a4b63;
+  width: 40%;
+  height: 100vh;
+  margin-right: 15px;
+}
+.ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2px;
+}
+.event-details {
+  display: flex;
+}
